@@ -1,3 +1,2 @@
 # Sign-Language-Translator
-#FCI - SLT.pdf - Presentation
-#FCI.pdf - Project Report
+resNet50.ipynb --------- Deep Learning Model
